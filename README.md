@@ -92,8 +92,10 @@ Ce pipeline nécessite :
 Dans le virtualenv du projet, installez :
 
 ```bash
-pip install apache-airflow-providers-postgres psycopg[binary]
+pip install -r requirements.txt
 ```
+
+Le fichier `requirements.txt` contient les dépendances nécessaires au projet.
 
 ### 2. Configuration Airflow
 

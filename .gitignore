@@ -5,6 +5,6 @@ __pycache__/
 airflow.db
 airflow.cfg
 logs/
+data/
 simple_auth_manager_passwords.json.generated
 .DS_Store
-".gitignore 2"
